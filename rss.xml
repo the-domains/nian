@@ -4,14 +4,14 @@
         <description><![CDATA[Nian.NET]]></description>
         <link>https://thegrid.ai/nian/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 Nov 2015 02:01:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Nov 2015 02:01:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nian/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome]]></title>
             <description><![CDATA[<article><h1>Welcome</h1><p>Welcome to Nian.NET!</p></article>]]></description>
             <link>https://thegrid.ai/nian/welcome/index.html</link>
             <guid isPermaLink="false">3c83734b-1dc1-4a51-8771-51c6ea648955</guid>
-            <pubDate>Thu, 05 Nov 2015 01:58:24 GMT</pubDate>
+            <pubDate>Thu, 05 Nov 2015 02:01:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
